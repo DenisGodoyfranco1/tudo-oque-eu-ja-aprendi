@@ -1,0 +1,6 @@
+Error: qualquer coisa  (LogFileMixin)
+
+Success: que legal hahahaha(LogFileMixin)
+
+Error: Iphone 14 pro max esta desligado  (Smartfone)
+
